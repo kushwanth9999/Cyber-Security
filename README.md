@@ -34,8 +34,8 @@ This repository is created to document my **daily progress**, tasks completed, a
 | ------- | -------------------------- | --------------- | -------------------------------------------------------------------------------|
 | June 23 | Orientation, Initial Setup | GitHub, Notion  | Understood project goals and got onboarded                                     |
 | June 24 | Port Scanning Task         | Nmap, Wireshark | Conducted a network port scan, analyzed results                                |
-| June 25 | Vulnerability Assessment   | MXToolbox       | Analyzed a phishing email and created a report that identifies phishing traits |
-| ...     | ...                        | ...             | ...                                                 |
+| June 25 | Analyze a phishing email   | MXToolbox       | Analyzed a phishing email and created a report that identifies phishing traits |
+| ...     |                        | ...             | ...                                                                            |
 
 > 🔁 This table will be updated daily to reflect the progress made during the internship.
 
