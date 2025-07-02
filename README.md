@@ -38,7 +38,7 @@ This repository is created to document my **daily progress**, tasks completed, a
 | June 27 | Full PC vulnerability scan                    | Nessus Essentials | Performed full vulnerability scan on PC and identified issues                                              |
 | June 28 | Setup and Use a Firewall on Windows           | Windows Firewall  | Configured and managed basic firewall rules on Windows                                                     |
 | July 02 | Network traffic capture and protocol analysis | Wireshark  | Captured and analyzed live network traffic using Wireshark, and identified commonly used network protocols |
-| July 02 | Create a strong password and Evaluate its strength| l  | Understood what makes a password strong and tested it against password strength tools   |
+| July 02 | Create a strong password and Evaluate its strength| Passwordmeter.com  | Understood what makes a password strong and tested it against password strength tools   |
 
 > 🔁 This table will be updated daily to reflect the progress made during the internship.
 
