@@ -1,0 +1,45 @@
+
+Summary of Findings – Packet Analysis Report
+============================================
+
+Capture Info:
+-------------
+- Filename: network_capture.pcapng
+- Duration: Approx. 1–2 minutes
+- Traffic Sources: Browser activity, ping to google.com
+
+Protocols Identified:
+----------------------
+1. DNS: Resolves domain names to IP addresses (used during domain lookup)
+2. TCP: Reliable connection-oriented protocol (used for web communication)
+3. HTTP: Web protocol for content requests over port 80
+4. ICMP: Ping requests and replies (used to test network connectivity)
+5. TLS: Encrypted HTTPS traffic over port 443
+
+Sample Packet Details:
+----------------------
+1. DNS Query
+   - Source IP: Local IP (e.g., 192.168.x.x)
+   - Destination IP: DNS server
+   - Query: google.com
+   - Response: IP address returned
+
+2. TCP 3-Way Handshake
+   - SYN -> SYN-ACK -> ACK sequence
+   - Establishes reliable TCP connection
+
+3. HTTP GET Request
+   - Source Port: Dynamic (e.g., 54231)
+   - Destination Port: 80
+   - Request: GET / HTTP/1.1
+
+4. ICMP Echo Request/Reply
+   - Ping generated Type 8 (request) and Type 0 (reply) packets
+
+5. TLS Packets
+   - Port: 443
+   - Info: Encrypted handshake (Client Hello, Server Hello)
+
+Conclusion:
+-----------
+This task involved capturing and analyzing live network traffic to identify protocol behavior and interactions. It demonstrates real-world usage of DNS, TCP, HTTP, TLS, and ICMP in everyday web communication and connectivity testing.
