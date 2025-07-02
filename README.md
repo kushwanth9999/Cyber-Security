@@ -30,13 +30,15 @@ This repository is created to document my **daily progress**, tasks completed, a
 
 ## 📖 Daily Reports
 
-| Date    | Tasks Completed                     | Tools/Tech Used   | Summary                                                        |
-| ------- | ----------------------------------- | ----------------- | -------------------------------------------------------------  |
-| June 23 | Orientation, Initial Setup          | GitHub, Notion    | Understood project goals and got onboarded                     |
-| June 24 | Port Scanning Task                  | Nmap, Wireshark   | Conducted a network port scan, analyzed results                |
-| June 25 | Analyzing a phishing email          | MXTool box        | Analyzed a phishing email and created a report                 |
-| June 27 | Full PC vulnerability scan          | Nessus Essentials | Performed full vulnerability scan on PC and identified issues  |
-| June 28 | Setup and Use a Firewall on Windows | Windows Firewall  | Configured and managed basic firewall rules on Windows         |
+| Date    | Tasks Completed                               | Tools/Tech Used   | Summary                                                                                                    |
+| ------- | --------------------------------------------- | ----------------- | ---------------------------------------------------------------------------------------------------------  |
+| June 23 | Orientation, Initial Setup                    | GitHub, Notion    | Understood project goals and got onboarded                                                                 |
+| June 24 | Port Scanning Task                            | Nmap, Wireshark   | Conducted a network port scan, analyzed results                                                            |
+| June 25 | Analyzing a phishing email                    | MXTool box        | Analyzed a phishing email and created a report                                                             |
+| June 27 | Full PC vulnerability scan                    | Nessus Essentials | Performed full vulnerability scan on PC and identified issues                                              |
+| June 28 | Setup and Use a Firewall on Windows           | Windows Firewall  | Configured and managed basic firewall rules on Windows                                                     |
+| July 02 | Network traffic capture and protocol analysis | Windows Firewall  | captured and analyzed live network traffic using Wireshark, and identified commonly used network protocols |
+
 
 > 🔁 This table will be updated daily to reflect the progress made during the internship.
 
