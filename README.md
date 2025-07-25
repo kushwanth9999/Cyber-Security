@@ -57,8 +57,10 @@ This repository documents my **daily tasks**, **resources used**, and **learning
 
 ## 📌 Conclusion
 
-This internship at **Elevate Labs** helped me build a strong foundation in cybersecurity through real-world tasks. Each day presented a new learning opportunity, allowing me to apply security concepts hands-on.
+This internship at Elevate Labs helped me build a strong foundation in cybersecurity through hands-on, real-world tasks. Each day brought new challenges and learning opportunities that allowed me to apply security concepts in practical scenarios.
 
-I have done a project **Password Strength Analyzer with Custom Wordlist Generator** under this internship.ss This project was developed as part of my internship at Elevate Labs, where I had the opportunity to apply my skills in a practical environment and deepen my understanding of real-world development workflows. Through this experience, I enhanced my problem-solving abilities, wrote clean and maintainable code, and collaborated effectively on technical tasks. I'm grateful to Elevate Labs for the learning opportunity and look forward to contributing to more impactful projects in the future.
+As part of the internship, I developed a project titled **Password Strength Analyzer with Custom Wordlist Generator**, which strengthened my skills in secure coding, logic building, and practical problem-solving. This experience improved my ability to write clean, maintainable code and collaborate on technical tasks within a structured workflow.
+
+I'm thankful to Elevate Labs for the guidance and exposure throughout this journey. The complete project is submitted separately in a dedicated repository named **ElevateLabs_PasswordAnalyzer**.
 
 ---
