@@ -30,18 +30,18 @@ This repository documents my **daily tasks**, **resources used**, and **learning
 
 ## 📖 Daily Reports
 
-| Date    | Tasks Completed                        | Tools/Tech Used              Summary                                                                   |
-| ------- | -------------------------------------- | ------------------------------ | ------------------------------------------------------------------------- |
-| June 23 | Orientation & Setup                    | GitHub, Notion                 | Understood internship objectives and setup GitHub for documentation       |
-| June 24 | Network Port Scanning                  | Nmap & Wireshark               | Scanned network ports and documented open/closed ports                    |
-| June 25 | Phishing Email Analysis                | MXTool box                     | Analyzed phishing email headers and extracted IOCs                        |
-| June 26 | Firewall Traffic Filtering             | Windows Defender Firewall      | Observed how firewalls filter traffic using inbound/outbound rules        |
-| June 27 | Full Vulnerability Scan                | Nessus Essentials              | Ran a full scan and analyzed vulnerability results                        |
-| June 28 | Setup & use a Firewall on Windows      | Windows Firewall               | Configured and managed basic firewall rules on windows                      |
-| July 02 | Wireshark Traffic Capture              | Wireshark                      | Captured, filtered, and exported packets; summarized protocol details     |
-| July 02 | Password Strength Evaluation           | passwordmeter.com              | Created passwords with varied complexity, tested and reported strength    |
+| Date    | Tasks Completed                        | Tools/Tech Used                | Summary                                                                                                          |
+| ------- | -------------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| June 23 | Orientation & Setup                    | GitHub, Notion                 | Understood internship objectives and setup GitHub for documentation                                              |
+| June 24 | Network Port Scanning                  | Nmap & Wireshark               | Scanned network ports and documented open/closed ports                                                           |
+| June 25 | Phishing Email Analysis                | MXTool box                     | Analyzed phishing email headers and extracted IOCs                                                               |
+| June 26 | Firewall Traffic Filtering             | Windows Defender Firewall      | Observed how firewalls filter traffic using inbound/outbound rules                                               |
+| June 27 | Full Vulnerability Scan                | Nessus Essentials              | Ran a full scan and analyzed vulnerability results                                                               |
+| June 28 | Setup & use a Firewall on Windows      | Windows Firewall               | Configured and managed basic firewall rules on windows                                                           |
+| July 02 | Wireshark Traffic Capture              | Wireshark                      | Captured, filtered, and exported packets; summarized protocol details                                            |
+| July 02 | Password Strength Evaluation           | passwordmeter.com              | Created passwords with varied complexity, tested and reported strength                                           |
 | July 03 | Suspicious Browser Extensions Removal  | Chrome                         | reviewed, identified, and removed any suspicious browser extensions to improve browser security and performance  |
-| July 04 | VPN Setup and Usage                    | ProtonVPN & whatismyipaddress  | Installed VPN, connected to secure server, ensured encrypted traffic flow |
+| July 04 | VPN Setup and Usage                    | ProtonVPN & whatismyipaddress  | Installed VPN, connected to secure server, ensured encrypted traffic flow                                        |
 
 ---
 
