@@ -2,9 +2,9 @@
 
 # 📝 Elevate Labs Internship - Daily Report
 
-Welcome to the daily report of my internship at **Elevate Labs**, where I am currently working as a **Cyber Security Intern**. This internship started on **June 23, 2025**, and runs for **one month** in a **remote** setup.
+Welcome to the daily report of my internship at **Elevate Labs**, where I am worked as a **Cyber Security Intern**. This internship started on **June 23, 2025**, and runs for **one month** in a **remote** setup.
 
-Throughout this period, I am engaging in various cybersecurity-related tasks that enhance my practical knowledge and technical proficiency.
+Throughout this period, I am engaged into various cybersecurity-related tasks that enhance my practical knowledge and technical proficiency.
 
 ---
 
