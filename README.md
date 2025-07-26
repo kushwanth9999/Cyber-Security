@@ -30,7 +30,7 @@ This repository documents my **daily tasks**, **resources used**, and **learning
 
 ## 📖 Daily Reports
 
-| Date    | Tasks Completed                        | Tools/Tech Used                | Summary                                                                   |
+| Date    | Tasks Completed                        | Tools/Tech Used              Summary                                                                   |
 | ------- | -------------------------------------- | ------------------------------ | ------------------------------------------------------------------------- |
 | June 23 | Orientation & Setup                    | GitHub, Notion                 | Understood internship objectives and setup GitHub for documentation       |
 | June 24 | Network Port Scanning                  | Nmap & Wireshark               | Scanned network ports and documented open/closed ports                    |
@@ -61,6 +61,6 @@ This internship at Elevate Labs helped me build a strong foundation in cybersecu
 
 As part of the internship, I developed a project titled **Password Strength Analyzer with Custom Wordlist Generator**, which strengthened my skills in secure coding, logic building, and practical problem-solving. This experience improved my ability to write clean, maintainable code and collaborate on technical tasks within a structured workflow.
 
-I'm thankful to Elevate Labs for the guidance and exposure throughout this journey. The complete project is submitted separately in a dedicated repository named **ElevateLabs_PasswordAnalyzer**.
+I'm thankful to Elevate Labs for the guidance and exposure throughout this journey. The complete project is submitted separately in a dedicated repository named **Password-Strength-Analyzer-with-Custom-Wordlist-Generator**.
 
 ---
